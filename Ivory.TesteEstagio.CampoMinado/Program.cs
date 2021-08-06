@@ -52,11 +52,6 @@ namespace Ivory.TesteEstagio.CampoMinado
             {
                 Console.WriteLine("\nVitoria");
             }
-
         }
-
-
-
-
     }
 }
